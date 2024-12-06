@@ -130,7 +130,7 @@ $$
 
 
 
-# <small>利用 LOBPCG <br>求解偏特征值问题</small>
+## <small>利用 LOBPCG <br>求解偏特征值问题</small>
 
 
 
